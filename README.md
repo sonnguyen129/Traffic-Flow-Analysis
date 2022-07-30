@@ -22,7 +22,7 @@ Built a web application using Flask and Dash.
     pip install -r requirements.txt
     ```
 
-* Download YOLOX-S,M,L weights in [this repository](https://github.com/Megvii-BaseDetection/YOLOX) and add in ```./weights``` folder
+* Download YOLOX-S,M,L weights in [this repository](https://github.com/Megvii-BaseDetection/YOLOX) and add in ```./weights``` folder and prepare your video input (Ex: [this video](https://drive.google.com/file/d/1K9NINYSs0edtCjVeICFMkCM7KTmVshu5/view?usp=sharing))
 
 * Simply run [Deploy webapp](./Deploy_webapp.ipynb) notebook.
 
@@ -40,6 +40,8 @@ Detecting and tracking technologies have been very popular in recent years. Supp
     <img src='assets/yolox.png' width = '300' height = '350'/> 
     <img src='assets/git_fig.png' width = '500 'height = '350'/> 
 </p>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*Architecture* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *Performance*
 
 ### DeepSORT
 
