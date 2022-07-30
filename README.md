@@ -37,8 +37,8 @@ Detecting and tracking technologies have been very popular in recent years. Supp
 **YOLOX** is the state-of-the-art detector, known as YOLOv5 with some improvements. YOLOv5 are still anchor based detector and used hand-crafted assigning rules for training. Anchor free detector, advanced label assignment strategies and end-to-end detectors are integrated into YOLOX. In this project, I used COCO weights instead of training from scratch. 
 
 <p align = 'middle'>
-    <img src='https://github.com/sonnguyen129/Trafic-Management-System/raw/main/assets/yolox.png' alt = 'Architecture' width = '350' height = '350'/> 
-    <img src='https://github.com/sonnguyen129/Trafic-Management-System/raw/main/assets/git_fig.png' alt = 'Architecture' width = '600 'height = '350'/> 
+    <img src='https://github.com/sonnguyen129/Trafic-Management-System/raw/main/assets/yolox.png' alt = 'Architecture' width = '300' height = '350'/> 
+    <img src='https://github.com/sonnguyen129/Trafic-Management-System/raw/main/assets/git_fig.png' alt = 'Architecture' width = '550 'height = '350'/> 
 </p>
 
 ### DeepSORT
