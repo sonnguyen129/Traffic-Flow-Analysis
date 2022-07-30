@@ -38,7 +38,7 @@ Detecting and tracking technologies have been very popular in recent years. Supp
 
 <p align='center'>
     <img src='assets/yolox.png' width = '300' height = '350'/> 
-    <img src='assets/git_fig.png' width = '450 'height = '350'/> 
+    <img src='assets/git_fig.png' width = '500 'height = '350'/> 
 </p>
 
 ### DeepSORT
