@@ -11,7 +11,7 @@
 ## Web Application: 
 Built a web application using Flask and Dash.
 
-<img width="800" alt="image" src="doc/Demo.gif">
+![demo](./assets/webapp-demo.gif)
 
 ## Installation
 
