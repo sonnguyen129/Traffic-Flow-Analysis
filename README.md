@@ -34,14 +34,9 @@ Detecting and tracking technologies have been very popular in recent years. Supp
 
 ### Why YOLOX
 
-**YOLOX** is the state-of-the-art detector, known as YOLOv5 with some improvements. YOLOv5 are still anchor based detector and used hand-crafted assigning rules for training. Anchor free detector, advanced label assignment strategies and end-to-end detectors are integrated into YOLOX. In this project, I used COCO weights instead of training from scratch. 
+**YOLOX** is the state-of-the-art detector, known as [YOLOv5](https://github.com/ultralytics/yolov5) with some improvements. YOLOv5 is still anchor based detector and used hand-crafted assigning rules for training. Anchor free detector, advanced label assignment strategies and end-to-end detectors are integrated into YOLOX. In this project, I used COCO weights instead of training from scratch. 
 
-<p align='center'>
-    <img src='assets/yolox.png' width = '300' height = '350'/> 
-    <img src='assets/git_fig.png' width = '500 'height = '350'/> 
-</p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*Architecture* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *Performance*
+![image](./assets/git_fig.png)
 
 ### DeepSORT
 
